@@ -3,7 +3,7 @@ variable "secret_key" {}
 variable "region" {}
 variable "ami" {}
 variable "ami_instance_type" {}
-varibale "test" {}
+variable "test" {}
 # ami-085925f297f89fce1
 
 provider "aws" {
